@@ -8,6 +8,9 @@ html {
     box-sizing: border-box;
 }
 
+body {
+    background-color: rgb(144, 184, 245);
+}
 .form-card {
     background-color: rgb(0, 132, 255);
     margin: 280px auto;
